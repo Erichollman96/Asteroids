@@ -1,4 +1,8 @@
-A modern Python remake of the classic Asteroids arcade game, built with Pygame and featuring fully procedurally generated audio
+A modern Python remake of the classic Asteroids arcade game, built with Pygame and featuring fully procedurally generated audio.
+
+Add this to your raspberry pi to easily deploy. Include mobile link with your embedded system to allow users to access this app (eg. Wi-Fi guests)
+
+No credit needed
 
 Controls
 

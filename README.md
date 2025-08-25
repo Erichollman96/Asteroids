@@ -2,6 +2,8 @@ A modern Python remake of the classic Asteroids arcade game, built with Pygame a
 
 Add this to your raspberry pi to easily deploy. Include mobile link with your embedded system to allow users to access this app (eg. Wi-Fi guests)
 
+Controls may be cast through standard mobile->PC I/O apps compatible with raspberry pi and python
+
 No credit needed
 
 Controls
